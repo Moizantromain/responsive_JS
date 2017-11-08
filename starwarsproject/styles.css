@@ -1,0 +1,185 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Shadows+Into+Light');
+
+ /*-------------------------------header*/
+header{
+	background-image: url(images/star-wars-halloween-playlist-fyrnocks-tall-1536x512.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+	padding: 20px;
+	background-color: rgba(0,0,0,0.2);
+	position: fixed;
+	top: 0;
+	left: 0;
+	width:100%;
+	box-shadow: 0px 0px 35px #888888;
+	z-index: 9999;
+}
+header h1{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 53px;
+	font-weight: 700;
+	border: none;
+	
+}
+header span{
+	display: block;
+	font-family: 'open Sans', Sans-serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-left: 10px;
+	color: white;
+}
+.storm{
+	width: 135px;
+	height: 80px;
+}
+.col-8 ul {
+	float: right;
+}
+.col-8 ul li{
+	float: left;
+	margin: 10px;
+}
+.col-8 ul li a{
+	font-family: 'open Sans', Sans-serif;
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: 700;
+	color: white;
+	text-decoration: none;
+}
+h1{
+	font-family: 'Shadows Into Light', cursive;
+	border-bottom:2px solid white;
+	display: inline-block;
+	color: white;
+	font-size: 48px;
+	font-weight: 700;
+}
+.btn{
+	display:block;
+	width: 120px;
+	background-color: white;
+	color: black;
+	border-radius: 4px;
+	padding: 10px 0px;
+	margin:20px auto 0;
+	text-decoration: none;
+}
+
+/*--------------------------------section-1*/
+#section-slider{
+	padding: 400px 0;
+	background-color: black;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+#section-2{
+	padding:100px 0;
+}
+
+h2{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 72px;
+	font-weight: 700;
+	margin:40px 0;
+}
+h2 span{
+	display: block;
+	font-family: 'open Sans', Sans-serif;
+	font-size: 48px;
+	text-transform: uppercase;
+
+}
+
+p{
+	font-size: 18px;
+	line-height: 22px;
+}
+.btn-2{
+	margin-top: 10px;
+	color: black;
+	font-size: 16px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-bottom: 3px solid black;
+	width:auto;
+	text-decoration: none;
+}
+#section-3{
+	padding: 400px 0;
+	background-image: url(images/default.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+	min-height: 100vh;
+}
+#section-4{
+	padding:100px 0;
+}
+
+#section-5{
+	padding: 400px 0;
+	background-image: url(images/atk.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+	min-height: 100vh;
+}
+
+#section-6{
+	padding:100px 0;
+}
+
+#section-7{
+	background-image: url(images/backgroundVideoPoster.img.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: cover;
+	min-height: 100vh;
+	color: white;
+}
+
+video{
+	/*margin:0 100px;*/
+}
+
+#footer{
+	background-color: white;
+	height: 40px;
+	color: white;
+}
+#footer img{
+	height: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
